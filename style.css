@@ -1,0 +1,19 @@
+body{
+	background-color: #4C4C4C;
+	color: #D7D7D7;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	font-family: 'Segoe UI', 'Calibri', sanf-serif;
+	margin: auto 0;
+}
+
+p{
+	padding-top: 20px;
+	font-size: 3em;
+	color: #65BBD7;
+}
+.main{
+	margin-top: 8vh;
+	padding: 0 30px;
+}
