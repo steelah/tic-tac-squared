@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	background-color: #4D4D4D;
 }
 
 .playfield{
@@ -8,36 +9,15 @@ body{
 	background-color: #4D4D4D;
 }
 
-td{
-	border: 3px solid white;
-	padding: 0px;
-}
-
 table{
-	width: 100%;
-	height: 100vw;
+	table-layout: fixed;
+	border: 3px solid #FFFFFF;
 	border-collapse: collapse;
-	border: 0px;
+	margin: 2vh 2vh;
 }
 
-.misc{
-	width: 100%;
-	height: calc(100vh - 100vw);
-	background-color: #707070;
-}
-
-.no-top > td{
-	border-top: none;
-}
-
-.no-bottom > td{
-	border-bottom: none;
-}
-
-tr > td:first-child{
-	border-left: 3px solid #4D4D4D;
-}
-
-tr > td:last-child{
-	border-right: 3px solid #4D4D4D;
+table td{
+	width: calc(96vw / 9);
+	height: calc(90vw / 9);
+	border: 3px solid #FFFFFF;
 }
