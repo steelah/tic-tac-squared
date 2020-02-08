@@ -13,6 +13,18 @@ p{
 	font-size: 3em;
 	color: #65BBD7;
 }
+
+@media (min-width: 1281px) {
+	
+	body{
+		font-size: 1.33em;
+	}
+
+	p{
+		font-size: 1.5em;
+	}
+}
+
 .main{
 	margin-top: 8vh;
 	padding: 0 30px;
