@@ -4,7 +4,7 @@ body{
 	text-align: center;
 	font-weight: bold;
 	font-size: 2em;
-	font-family: 'Segoe UI', 'Calibri', sanf-serif;
+	font-family: -apple-system, "Segoe UI", system-ui, BlinkMacSystemFont, Roboto, Ubuntu;
 	margin: auto 0;
 }
 
