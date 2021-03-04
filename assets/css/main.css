@@ -8595,3 +8595,10 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.merch{
+	background-color: #0E2A47;
+	color: #FFF;
+	padding-bottom: 4rem;
+}
+
