@@ -12,13 +12,13 @@ button {
   padding: 10px;
   text-transform: uppercase;
   height: 20vh;
-  width: 80vw;
+  width: 50vw;
   cursor: pointer;
-  font-size: 5em;
+  font-size: 3em;
 }
 #placeholder {
-  height: 40vh;
-  width: 40vh;
+  height: 20vh;
+  width: 20vh;
   padding: 50px;
   margin: 5vh auto;
   background-color: #E8FFDA;
