@@ -1,28 +1,26 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   text-align: center;
   background-color: #0E2A47;
 }
-
 button {
   background-color: #F4CA16;
   border-radius: 6px;
   border: none;
   color: #0C0A01;
-  padding: 10px;
+  padding: 3vw;
   text-transform: uppercase;
-  height: 20vh;
-  width: 50vw;
+  width: 60vw;
   cursor: pointer;
-  font-size: 3em;
+  font-size: 5em;
 }
 #placeholder {
-  height: 20vh;
-  width: 20vh;
-  padding: 50px;
-  margin: 5vh auto;
-  background-color: #E8FFDA;
+  height: 60vw;
+  width: 60vw;
+  padding: 10vw;
+  margin: 10vw auto;
   border: 1px solid gray;
   border-radius: 10px;  
-  font-size: 16em;
+  font-size: 15em;
+  background-color: #E8FFDA;
 }
