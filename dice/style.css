@@ -24,3 +24,21 @@ button {
   font-size: 15em;
   background-color: #E8FFDA;
 }
+
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+  button {
+    border-radius: 6px;
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 200px;
+    cursor: pointer;
+  }
+  #placeholder {
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 50px auto;
+    font-size:80px;
+  }
+}
